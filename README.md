@@ -1,1 +1,1 @@
-# grocery-tracker
+# Grocery Price Tracker
